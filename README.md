@@ -11,14 +11,11 @@ There are 2 ways of installing Kohana:
 
 ### 1. Composer project
 
-Open your command prompt, ```cd``` into the dir you want to install Kohana in and run ```composer create-project happydemon/kohana-composer-bootstrap```
+Open your command prompt, ```cd``` into the dir you want to install Kohana in and run ```composer create-project helpse/kohana-composer-bootstrap```
 
 ### 2. Repo download
 
 Just download this repo, put it where you need it and run ```composer install```, it will download the framework and their bundled modules from the composer.json in the root dir.
 
 After that you can change composer.json to include any package you'd like and run ```composer update```.
-
-[![Gittip Badge](http://img.shields.io/gittip/happyDemon.svg)](https://www.gittip.com/happyDemon/ "Gittip donations")
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/happyDemon/kohana-composer-bootstrap/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
